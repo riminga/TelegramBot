@@ -1,7 +1,7 @@
 # TelegramBot
 telegram bot for community 
 
-#1.0
+# 1.0
 The program in Java that compares any 2 images and shows the differences visually by drawing rectangles.*
 
 Implementation is using only standard core language and platform features, no 3rd party libraries and plagiarized code is permitted.
